@@ -2,10 +2,16 @@ h1 {
     color: purple;
   }
 
-  h2 {
+h2 {
     color: purple;
   }
 
-  h3 {
+h3 {
     color: green;
   }
+#pu-title-1 {
+  text-align: center;
+}
+.pu-where {
+    font-weight: bold;
+}
